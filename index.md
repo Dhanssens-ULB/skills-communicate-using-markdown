@@ -8,3 +8,6 @@ def hello_world:
   print("Hello World")
   return
 ```
+
+- [X] Validate the course
+- [ ] Enroll for the next course
